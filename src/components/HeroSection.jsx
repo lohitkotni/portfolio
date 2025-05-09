@@ -21,9 +21,10 @@ export const HeroSection = () => {
           </h1>
 
           <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ducimus at
-            nam, eaque quam consequatur fugiat omnis ea laborum veniam iusto
-            ullam doloremque veritatis dolores quisquam libero.
+            Full-stack developer skilled in Java, Spring Boot, JavaScript,
+            Node.js, Express, React, Next.js, and Tailwind CSS. Experienced with
+            Postman, Docker, Kubernetes, and Python for API development,
+            testing, and deployment.
           </p>
 
           <div className="pt-4 opacity-0 animate-fade-in-delay-4">
