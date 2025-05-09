@@ -50,8 +50,8 @@ export const AboutSection = () => {
                 <div className="text-left">
                   <h4 className="font-semibold text-lg">Web Development</h4>
                   <p className="text-muted-foreground">
-                    Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                    Esse, molestiae?
+                    Creating responsive websites and web applications with
+                    modern frameworks.
                   </p>
                 </div>
               </div>
@@ -64,8 +64,7 @@ export const AboutSection = () => {
                 <div className="text-left">
                   <h4 className="font-semibold text-lg">Web Development</h4>
                   <p className="text-muted-foreground">
-                    Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                    Esse, molestiae?
+                    Developing scalable backend systems and RESTful APIs using Java (Spring Boot) and Node.js (Express).
                   </p>
                 </div>
               </div>
@@ -78,8 +77,8 @@ export const AboutSection = () => {
                 <div className="text-left">
                   <h4 className="font-semibold text-lg">Web Development</h4>
                   <p className="text-muted-foreground">
-                    Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                    Esse, molestiae?
+                    Leading projects from conception to completion with agile
+                    methodologies.
                   </p>
                 </div>
               </div>
