@@ -4,4 +4,4 @@ Welcome to my personal portfolio! This site is a reflection of who I am as a dev
 
 ## 🌐 Live Demo
 
-[Visit my portfolio here](https://portfolio-opal-ten-87.vercel.app/))
+[Visit my portfolio here](https://portfolio-opal-ten-87.vercel.app/)
